@@ -1,0 +1,8 @@
+# Define some paths in a YAML file for better organization and easier access to data
+data_DSPH: 'C:/Users/ztahe/OneDrive/Desktop/DSPH/Code-Zahra-Feb/Data_DSPH.csv'
+data_Glucose: 'C:/Users/ztahe/OneDrive/Desktop/DSPH/Code-Zahra-Feb/data_Glucose.csv'
+
+
+
+
+

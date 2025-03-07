@@ -1,0 +1,8 @@
+# Define some paths in a YAML file for better organization and easier access to data
+data_DSPH: 'Data/Data_DSPH.csv'
+data_Glucose: 'Data/data_Glucose.csv'
+
+
+
+
+
